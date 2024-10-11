@@ -24,6 +24,7 @@ Dataset Used: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 - saledate: Date the car was sold.
 # Tableau Dashboard: 
 The project also includes a Tableau dashboard to visualize the insights drawn from the data:
+Dashboard: https://public.tableau.com/shared/PBHBYJTCX?:display_count=n&:origin=viz_share_link
 # Key Visualizations:
 - Top Car Makes by Average Selling Price: Bar chart showing manufacturers with the highest average selling prices.
 - Cars with the Largest Price Difference: A chart highlighting cars with the largest differences between their selling price and MMR value.
